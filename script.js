@@ -6,4 +6,5 @@ console.log("Outro teste 3");
 console.log("Outro teste 4");
 console.log("Outro teste 3");
 console.log("Outro teste 4");
+console.log("Outro teste 5");
 console.log("Código aí");
