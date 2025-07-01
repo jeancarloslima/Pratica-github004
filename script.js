@@ -5,6 +5,7 @@ console.log("Teste 4");
 console.log("Teste 5");
 console.log("Teste 6");
 console.log("Teste 7");
+console.log("Teste 8");
 console.log("Outro teste 1");
 console.log("Outro teste 2");
 console.log("Outro teste 3");
