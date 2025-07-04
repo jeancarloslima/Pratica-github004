@@ -20,6 +20,7 @@ console.log("Outro teste 7");
 console.log("Outro teste 8");
 console.log("Outro teste 9");
 console.log("Outro teste 10");
+console.log("Outro teste 11");
 console.log("Código aí");
 console.log("Código aí 2");
 console.log("Código aí 3");
