@@ -49,3 +49,6 @@ console.log("Código aí 18");
 console.log("Código aí 19");
 console.log("Código aí 20");
 console.log("Código aí 21");
+console.log("Código aí 22");
+console.log("Código aí 23");
+console.log("Código aí 24");
